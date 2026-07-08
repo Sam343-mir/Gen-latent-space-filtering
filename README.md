@@ -1,6 +1,13 @@
 
 # Latent-Space Data Selection Pipeline
 
+Official implementation accompanying the paper:
+
+> **A Data Centric Framework for Seismic Data Selection Using Latent Space Distribution Analysis**
+>
+> **Samiha Mirza, Apurva Gala, Pandu Devarakota, Shishir Shah**
+
+This repository implements a data-centric framework that leverages latent space representation learning to identify informative seismic slices for robust semantic segmentation under domain shift.
 ---
 
 ## Objective
